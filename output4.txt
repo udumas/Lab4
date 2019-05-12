@@ -1,0 +1,60 @@
+[H[2JEnter the year (four digit for eg. 2002,
+Course Identifier (formatted as "Dept""number" eg. CSC101
+and number of Students on one line.
+2012 CSC101 20
+ next Course 
+2012 MTH223 30
+ next Course 
+2012 ENG105 15
+ next Course 
+2013 CSC101 25
+ next Course 
+2013 MTH223 10
+ next Course 
+2013 ENG105 40
+ next Course 
+2014 CSC101 15
+ next Course 
+2014 MTH223 45
+ next Course 
+2012 ENG105 25
+ next Course 
+[H[2J
+CSC101
+      |
+
+      |
+  2012|*******************
+  2013|************************
+  2014|**************
+      |0****5****10****15****20****25****30****35****40****45****
+
+
+MTH223
+      |
+
+      |
+  2012|*****************************
+  2013|*********
+  2014|********************************************
+      |0****5****10****15****20****25****30****35****40****45****
+
+
+ENG105
+      |
+
+      |
+  2012|**************
+  2013|***************************************
+  2012|************************
+      |0****5****10****15****20****25****30****35****40****45****
+
+
+Statistics for the years 2012-2012
+The Number of Students per Course:
+                   CSC101 had 60
+                   MTH223 had 85
+                   ENG105 had 80
+* The course with the MINIMUM numer of students was in 2013 MTH223 with 10 students.
+* The courses that had the MAXIMUM number of students per year
+                    in 2012the maximum number of students is in MTH223 with 30 students. 

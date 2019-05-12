@@ -1,0 +1,38 @@
+
+CSC101
+      |
+
+      |
+  2012|*******************
+  2013|************************
+      |0****5****10****15****20****25****30****35****40****45****
+
+
+MTH223
+      |
+
+      |
+  2012|*****************************
+  2013|*********
+      |0****5****10****15****20****25****30****35****40****45****
+
+
+ENG105
+      |
+
+      |
+  2012|**************
+  2013|***************************************
+      |0****5****10****15****20****25****30****35****40****45****
+
+
+Statistics for the years 2012-2013
+The Number of Students per Course:
+                   CSC101 had 45
+                   MTH223 had 40
+                   ENG105 had 55
+* The course with the MINIMUM numer of students was in 2013 MTH223 with 10 students.
+* The courses that had the MAXIMUM number of students per year
+                    in 2012the maximum number of students is in MTH223 with 30 students. 
+                    in 2013the maximum number of students is in ENG105 with 40 students. 
+JoelSalisbury:Lab4 joelsalisbury$ 
